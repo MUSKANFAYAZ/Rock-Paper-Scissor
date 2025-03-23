@@ -1,0 +1,1 @@
+This is Rock Paper Scissor game which can played against computer and it can be stopped by refreshing the page 
